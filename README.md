@@ -7,7 +7,8 @@ This project demonstrates clean **HTML5 + CSS3**, responsive design, accessibili
 
 ## 📸 Preview
 
-![Preview of Foundation Analysis Landing Page](https://desenhohumano.com.br/wp-content/uploads/2025/08/analise-fundamental-desenho-humano.webp)
+![Preview of Foundation Analysis Landing Page](![Preview of Foundation Analysis Landing Page](https://raw.githubusercontent.com/robertodefarias/portfolio-foundation-analysis/main/preview.png)
+)
 
 ---
 
