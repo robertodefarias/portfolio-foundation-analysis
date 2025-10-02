@@ -7,8 +7,7 @@ This project demonstrates clean **HTML5 + CSS3**, responsive design, accessibili
 
 ## 📸 Preview
 
-![Preview of Foundation Analysis Landing Page](![Preview of Foundation Analysis Landing Page]([[[https://raw.githubusercontent.com/robertodefarias/portfolio-foundation-analysis/main/preview.png](https://github.com/robertodefarias/portfolio-foundation-analysis/blob/main/preview.png.png)](https://github.com/robertodefarias/portfolio-foundation-analysis/blob/main/preview.png.png](https://github.com/robertodefarias/portfolio-foundation-analysis/blob/main/preview.png.png))
-)
+![Preview of Foundation Analysis Landing Page](https://github.com/robertodefarias/portfolio-foundation-analysis/blob/main/preview.png.png?raw=true)
 
 ---
 
@@ -35,6 +34,8 @@ This project demonstrates clean **HTML5 + CSS3**, responsive design, accessibili
 
 🔗 [View Project Online](https://human-design.ca/foundation-analysis)  
 
+*(When GitHub Pages is enabled: replace with your repo link, e.g., `https://robertodefarias.github.io/portfolio-foundation-analysis/`)*
+
 ---
 
 ## 📂 Project Structure
@@ -44,6 +45,7 @@ portfolio-foundation-analysis/
 │── index.html # Main page
 │── style.css # External stylesheet
 │── README.md # Project documentation
+│── preview.png.png # Project screenshot
 
 
 
@@ -65,4 +67,3 @@ This project helped me practice:
 - 🌐 [Portfolio & Projects](https://www.robertodefarias.com.br)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/robertodefarias/)  
 - 📌 [Client Testimonials](https://share.google/2tTcTwwPcdiFHXY42)  
-
