@@ -1,3 +1,7 @@
+⚠️ Note: This is a simplified static demo.  
+The original version includes dynamic integrations (Stripe payments, Google Reviews, multilingual support).  
+This repo shows the clean **HTML + CSS** foundation.
+
 # Portfolio – Foundation Analysis Landing Page
 
 A professional landing page for the **Foundation Analysis – Human Design Reading**, designed and developed as part of my web development portfolio.  
