@@ -7,7 +7,7 @@ This project demonstrates clean **HTML5 + CSS3**, responsive design, accessibili
 
 ## 📸 Preview
 
-![Preview of Foundation Analysis Landing Page](![Preview of Foundation Analysis Landing Page](https://raw.githubusercontent.com/robertodefarias/portfolio-foundation-analysis/main/preview.png)
+![Preview of Foundation Analysis Landing Page](![Preview of Foundation Analysis Landing Page]([[https://raw.githubusercontent.com/robertodefarias/portfolio-foundation-analysis/main/preview.png](https://github.com/robertodefarias/portfolio-foundation-analysis/blob/main/preview.png.png)](https://github.com/robertodefarias/portfolio-foundation-analysis/blob/main/preview.png.png))
 )
 
 ---
